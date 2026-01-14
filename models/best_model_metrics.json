@@ -1,0 +1,31 @@
+{
+  "best_model": "RandomForestRegressor",
+  "metrics": {
+    "rmse": 25405.091973146173,
+    "r2": 0.9187754907033151,
+    "mape": 0.15543493009498768
+  },
+  "numeric_cols": [
+    "Distance_km",
+    "Fuel_Price",
+    "Days",
+    "Travelers",
+    "Trip_Duration",
+    "Start_Month",
+    "Start_Year",
+    "Start_DayofWeek"
+  ],
+  "categorical_cols": [
+    "Source",
+    "Destination",
+    "Peak_Season",
+    "Travel_Mode",
+    "Hotel_Type",
+    "Food_Preference",
+    "Weather_Sunny_Rainy_Snowy_Cloudy",
+    "Holiday_Type_Festival_Weekend_Vacation_Business",
+    "Discount_Yes_No",
+    "Travel_Insurance_Yes_No",
+    "Travel_Class"
+  ]
+}
