@@ -77,18 +77,18 @@ What happens:
 uvicorn app:app --reload
 ```
 
-Open: `http://127.0.0.1:8000/docs`
+Open: `http://localhost:8501/`
 
 Example request:
 
 ```json
 {
-  "destination": "Paris",
+  "destination": "Mumbai",
   "duration_days": 7,
   "transport": "flight",
   "hotel_rating": 4,
   "season": "summer",
-  "traveler_type": "solo"
+  "Number of Travelers": "1"
 }
 ```
 
