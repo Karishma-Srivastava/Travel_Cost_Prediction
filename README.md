@@ -115,6 +115,3 @@ Karishma Srivastava
 
 MIT
 
----
-
-If you don’t understand any section above, you are not ready for production ML yet. Fix the gaps instead of adding more projects.
